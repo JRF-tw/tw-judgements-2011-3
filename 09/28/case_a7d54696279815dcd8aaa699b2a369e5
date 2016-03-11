@@ -1,0 +1,18 @@
+<html>
+   <head>
+      <title>伺服器無法使用
+</title>
+   </head>
+   <body>
+      <h1><font face=Verdana color=#ff3300>伺服器應用程式無法使用
+</font></h1>
+      <p>
+      <font face=Verdana>
+        您嘗試在此 Web 伺服器上存取的 Web 應用程式目前無法使用。請按 Web 瀏覽器中的 [重新整理] 按鈕，再試一次。
+</p>
+   <p>
+   <b>系統管理員注意:
+</b> Web 伺服器的應用程式事件記錄檔中的錯誤訊息詳細說明了這項特定要求失敗原因。請檢閱這個記錄項目，查看造成錯誤的原因為何。
+ </p>
+   </body>
+</html>
